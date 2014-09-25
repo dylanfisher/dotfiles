@@ -1,3 +1,3 @@
-Sublime Text
-`cd ~/Library/Application\ Support/Sublime\ Text\ 3`
+#### Sublime Text
 
+`cd ~/Library/Application\ Support/Sublime\ Text\ 3`
